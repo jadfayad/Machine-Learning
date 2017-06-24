@@ -28,5 +28,5 @@ Predicting user reviews in a restuarant as good (1) or bad (2) (based on written
 - NLP with NLTK library & corpus
 
 Learning association between grocery products based on the list of purchases of many clients:
-- Apriori learning using the 'apyori.py' python class
+- Apriori learning using the 'apyori.py' python class  
 
