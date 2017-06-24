@@ -13,7 +13,7 @@ Predicting users click-through rate on ads (based on Gender, Age, Estimated Sala
 - Decisison Trees
 - Random Forest
 
-Prediciting customer spending in a mall (based on Gender, Age, Annual income) using Clustering algorithms:
+Identifying customer groups in a mall (based on Gender, Age, Annual income, Spending score) using Clustering algorithms:
 - K-Means
 - Hierarchical Clustering
 
