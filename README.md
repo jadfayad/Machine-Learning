@@ -17,4 +17,10 @@ Identifying customer groups in a mall (based on Gender, Age, Annual income, Spen
 - K-Means
 - Hierarchical Clustering
 
+Optimizing click through rates on ads by identifying the best ad using Reinforcement Learning algorithms:
+- Upper Confidence Bound
+- Thompson Sampling
+
+Predicting if bank clients will leave the bank (based on credit score, geography, age, tenure, account balance, activity,..) using ARTIFICIAL NEURAL NETWORKS (tensorflow & keras):
+- ANN with 2 hidden layers 
 
